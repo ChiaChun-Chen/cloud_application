@@ -1,0 +1,39 @@
+<html lang="zh-tw">
+
+	<head>
+    <meta charset="utf-8">
+		<title>雲端系統</title>
+	</head>
+
+	<style>
+	section1{
+		color: rgb(0, 0, 255);
+	}
+	</style>
+
+	<body>
+		<br>
+		<font size="5">學號: 108830035 姓名: 陳佳均</font><br>
+		<br>
+		<font color="#ff0000">這是我寫的第一支HTML網頁程式!!</font>
+		
+		<section1>
+			<div>
+				<ol>
+					<li>list 1</li>
+					<li>list 2</li>
+				</ol>
+			</div>
+
+		<section2>
+			<nav>
+				<ul>
+					<li><a href="https://www.ntut.edu.tw/" alt="NTUT" title="ntut">台北科大</li>
+					<li><a href="https://cnc.ntut.edu.tw/" alt="NTUT-CNC" title="ntut-cnc" target="_blank">計網中心</li>
+					<li><a href="https://vdesk.ntut.edu.tw/web/" alt="NTUT-vdesk" title="ntut-vdesk" target="_blank">北科軟體雲</li>
+				</ul>
+			</nav>
+	</body>
+
+
+</html>
